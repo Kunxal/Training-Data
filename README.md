@@ -1,1 +1,2 @@
 # Training-Data
+This Python code trains a Support Vector Classifier (SVC) on the Iris dataset to classify flowers into species. It involves loading the dataset, splitting it into training and testing sets, standardizing the features, and training the model. After training, the model makes predictions and its accuracy is evaluated. This example demonstrates a typical machine learning workflow using scikit-learn.
